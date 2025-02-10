@@ -39,12 +39,14 @@
             "id": "1a2c7e200999a478",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Compiler/Images/Pasted image 20241208174507.png"
+                "file": "HCI/Evaluation Overview and Heuristic Evaluation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241208174507"
+              "icon": "lucide-file",
+              "title": "Evaluation Overview and Heuristic Evaluation"
             }
           }
         ],
@@ -67,7 +69,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -189,10 +192,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64cfffd50a6ad361",
+  "active": "1a2c7e200999a478",
   "lastOpenFiles": [
-    "Compiler/Syntax Analysis.md",
     "Compiler/Images/Pasted image 20241208174507.png",
+    "HCI/Evaluation Overview and Heuristic Evaluation.md",
+    "HCI",
+    "Compiler/Syntax Analysis.md",
     "Compiler/Images/Pasted image 20241208174454.png",
     "Compiler/Images/Pasted image 20241208174450.png",
     "Compiler/Images/Pasted image 20241208174445.png",
