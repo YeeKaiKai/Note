@@ -62,3 +62,10 @@
 			- 錯誤訊息寫清楚，怎麼辦
 		- Help and documentation
 			- 提供必要文檔，但也不要太多
+	- Example
+		- 列出 Where ( 問題在哪 )， What ( 什麼問題 )， Why ( 為什麼違反 heuristic )， Severity
+			- What: Specify your language
+			- What: The app uses "Save" for saving information, except here where it uses "Store".
+			- Why: It is an inconsistent terminology for the same function in the application, which can create confusion
+			- Severity: 3
+		- 最後列個表格寫出所有的問題，以及 Severity 評分標準
