@@ -1,0 +1,68 @@
+### Controlled Experiment
+- Hypothesis
+	- **null hypothesis**
+		- 通常用來表示沒有影響、沒有效果的情況
+		- need to be disproved
+		- 給定一個零假說，並試著證明他錯誤，以此得到想要的結果
+- Variables
+	- things to manipulate and measure, to test the hypothesis
+### Usability Testing ( User Testing )
+- Goal
+	- Identify problems in the design
+	- Uncovering oppotunities to improve
+	- Learning about the target user's behavior and preferences
+- Facilitator
+	- 指引 participants
+	- 最好是清楚流程但不知道系統詳細架構的人，不然可能會說出答案
+- Task
+	- Tasks in usability test are realistic activities that the participant might perform in real life
+		- e.g., Your printer is showing "Error 5200". How can you get rid of the error message?
+- Participants
+	- they already use the system
+	- the are "similar" to the target user group
+	- **need 5 participants** 
+- Qualitative or Quantitative
+	- qualitative usability testing focuses on collecting insights, findings, and anecdotes about how people use the product or service
+	- quantitative usability testing focuses on collecting metrics that describe the user experience, e.g., task success and time on task
+- 3 steps of usability testing
+	- Plan
+		- who are your participants? what, where and how are you going to test?
+		- 5 participants are typically enough
+		- at least a facilitator, 1-2 note-takers and observers
+		- between 5-10 tasks typically, with clear goal, detailed success/failed criteria for each task
+		- any additional information need or want to ask before and/or after the task, each tash, a meaningful group of tasks
+		- **informed consent form**
+		![[Pasted image 20250212171140.png]]
+		- develop a written test protocol ( "script" ) for consistency among sessions
+	- Run
+		- one participant at time, multiple sessions
+		- collect data about the interactive system/interface
+		- informed consent, better in written format
+		- tell participants "all mistakes are app's fault, not yours."
+	- Analyze
+		- extract information from the collected data, both qualitative and quantitative
+- Tasks
+	- Make the task realistic, actionable, and clues and describing the steps
+	- Measuring success example: complete success, success with a minor issue, success with a major issue, failure
+- Post-task Questionnaire
+	- Single Ease Question (SEQ)
+		- short (1-3 questions) to interfere as little as possible with the flow of using the system in a sesion
+		- 7-point Likert scale from very easy to very difficult
+	- System Usability Scale (SUS)
+		- a "quick and dirt" (but trustable) usability scale
+		- measures the **perceived usability** of a system
+		- 10 questions and each has 5 response options ( 非常不同意，... )
+		- 計分方式為奇數題：回答分數 - 1；偶數題：5 - 回答分數，所有分數加總乘以 2.5
+		- a SUS score above 68 is considered **above average**
+	- NASA Task Load indeX (NASA-TLX)
+		- Measuring the **perceived workload** required by the complex, highly technical tasks of aerospace crew members
+		- 6 questions on an unlabeled 21-point scale, each question addresses one dimestion of the perceived workload:
+			- mental demand, physical demand, time pressure, perceived success with the task, overall effort level, and frustation level
+- Methodology
+	- Think-Aloud: In a thinking aloud test, you test participants to use the system while continuously thinking out loud - that is, simply verbalizing their thoughts as they move through the user interface
+		- 3 things to do
+			- recruit representative users
+			- give them representative tasks to perform
+			- shut up and let the users do the talking
+	- Cooperative Evaluation: Variation of the think-aloud
+		- the participant and the facilitator collaborate both can ask each other questions during the evaluation 

@@ -6,7 +6,7 @@
 	- acceptability: one's perception of a system before use
 	- acceptance: one's perception of the system after use
 - evaluation approahes: 
-	- lab studies: controlled tests ( 大概就是模擬環境測試 )
+	- in-the-laboratory studies: controlled tests ( 大概就是模擬環境測試 )
 		- 高控制但較不自然
 	- in-the-wild studies: user's work enviornment ( 實際環境測試 )
 		- 自然但低控制
@@ -69,3 +69,5 @@
 			- Why: It is an inconsistent terminology for the same function in the application, which can create confusion
 			- Severity: 3
 		- 最後列個表格寫出所有的問題，以及 Severity 評分標準
+- Summarize
+![[Pasted image 20250212145547.png]]
