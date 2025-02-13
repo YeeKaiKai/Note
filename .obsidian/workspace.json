@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Visual Design.md",
+                "file": "HCI/Visual Design.md",
                 "mode": "source",
                 "source": false
               },
@@ -168,8 +168,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f6728a6a5372091",
+  "active": "40befaa42ff83be7",
   "lastOpenFiles": [
-    "Visual Design.md"
+    "HCI/Visual Design.md"
   ]
 }
