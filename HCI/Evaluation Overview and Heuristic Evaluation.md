@@ -5,14 +5,15 @@
 	- functionality: the system's functionality must accord with the user's requirements and should enable users to perform their intended tasks.
 	- acceptability: one's perception of a system before use
 	- acceptance: one's perception of the system after use
-- evaluation approahes: 
+### Evaluation Approahes:
 	- in-the-laboratory studies: controlled tests ( 大概就是模擬環境測試 )
 		- 高控制但較不自然
 	- in-the-wild studies: user's work enviornment ( 實際環境測試 )
 		- 自然但低控制
 	- experimental methods and observational methods: choose a hypothesis to test, which can be determined by measuring some attribute of partcipant behavior
 	- query techniques (interviews): 捧著介面去問用戶 
-- cognitive walkthrough: step-by-step revision of a sequence of actions to perform a given task, examine each step, looking for possible problems
+### cognitive walkthrough
+- step-by-step revision of a sequence of actions to perform a given task, examine each step, looking for possible problems
 	- need: 
 		- a specification or prototype of the system
 		- a description of the task the user need to perform on the system
@@ -23,51 +24,51 @@
 		- Will users see that the action is available? 
 		- Once users have found the correct action, will they know it is the one they need?
 		- After the action is taken, will users understand the feedback they get?
-- Heuristic Evaluation (Design Critique)
-	- basic idea ( 大概就是找一坨很熟那領域的專家噴爆你的設計 )
-		- Define a set of heuristics (or principles)
-		- Give those heuristics to a group of experts
-		- Experts work independently
-		- At the end, experts communicate and share their findings
-		- The discovered violations of the heuristics are used
-	- phases of heuristic evaluation
-		- pre-evaluation training ( 先輩知識 )
-		- evaluation (**individual**): 列出 usability problems，違反什麼 heuristic rules
-		- severity rating
-			- first, individually; then, aggregate and find consensus
-			- combination of **frequency, impact and persistence**
-			- scale from 0 to 4
-		- debriefing
-	- 綜合考量與 Nielsen 得出的結論，3-5 位專家最好
-	- 10 Nielsen's Usability Heuristics
-		- Visibility of system status 
-			- 比如讀取要有正在讀取的畫面
-			- 時間長建議有進度條，短則讀取畫面
-		- Match between system and the real world 
-			- 講人話，避免特定領域的術語
-		- User control and freedom
-			- 可以 undo 或 redo，讓 user 離開 mistake，called "emergency exit"
-		- Consistency and standards
-			- 一樣的東西在不同地方也要長一樣，要有規律
-		- Error prevention
-			- 防呆
-		- Recognition rather than recall
-			- 提供提示，讓使用者不用空想
-			- 像是編譯器會給我們相似指令，或 word 字體名稱上已經有那字體的效果
-		- Flexibility and efficiency of use
-			- 提供 shortcut 讓新手或老手用，且不影響另一方體驗 ( default + options )，最好能客製化
-		- Aesthetic and minimalist design
-			- 介面精簡、乾淨
-		- Help users recognize, diagnose, and recover from errors
-			- 錯誤訊息寫清楚，怎麼辦
-		- Help and documentation
-			- 提供必要文檔，但也不要太多
-	- Example
-		- 列出 Where ( 問題在哪 )， What ( 什麼問題 )， Why ( 為什麼違反 heuristic )， Severity
-			- What: Specify your language
-			- What: The app uses "Save" for saving information, except here where it uses "Store".
-			- Why: It is an inconsistent terminology for the same function in the application, which can create confusion
-			- Severity: 3
-		- 最後列個表格寫出所有的問題，以及 Severity 評分標準
+### Heuristic Evaluation (Design Critique)
+- basic idea ( 大概就是找一坨很熟那領域的專家噴爆你的設計 )
+	- Define a set of heuristics (or principles)
+	- Give those heuristics to a group of experts
+	- Experts work independently
+	- At the end, experts communicate and share their findings
+	- The discovered violations of the heuristics are used
+- phases of heuristic evaluation
+	- pre-evaluation training ( 先輩知識 )
+	- evaluation (**individual**): 列出 usability problems，違反什麼 heuristic rules
+	- severity rating
+		- first, individually; then, aggregate and find consensus
+		- combination of **frequency, impact and persistence**
+		- scale from 0 to 4
+	- debriefing
+- 綜合考量與 Nielsen 得出的結論，3-5 位專家最好
+- 10 Nielsen's Usability Heuristics
+	- Visibility of system status 
+		- 比如讀取要有正在讀取的畫面
+		- 時間長建議有進度條，短則讀取畫面
+	- Match between system and the real world 
+		- 講人話，避免特定領域的術語
+	- User control and freedom
+		- 可以 undo 或 redo，讓 user 離開 mistake，called "emergency exit"
+	- Consistency and standards
+		- 一樣的東西在不同地方也要長一樣，要有規律
+	- Error prevention
+		- 防呆
+	- Recognition rather than recall
+		- 提供提示，讓使用者不用空想
+		- 像是編譯器會給我們相似指令，或 word 字體名稱上已經有那字體的效果
+	- Flexibility and efficiency of use
+		- 提供 shortcut 讓新手或老手用，且不影響另一方體驗 ( default + options )，最好能客製化
+	- Aesthetic and minimalist design
+		- 介面精簡、乾淨
+	- Help users recognize, diagnose, and recover from errors
+		- 錯誤訊息寫清楚，怎麼辦
+	- Help and documentation
+		- 提供必要文檔，但也不要太多
+- Example
+	- 列出 Where ( 問題在哪 )， What ( 什麼問題 )， Why ( 為什麼違反 heuristic )， Severity
+		- What: Specify your language
+		- What: The app uses "Save" for saving information, except here where it uses "Store".
+		- Why: It is an inconsistent terminology for the same function in the application, which can create confusion
+		- Severity: 3
+	- 最後列個表格寫出所有的問題，以及 Severity 評分標準
 - Summarize
 ![[Pasted image 20250212145547.png]]
