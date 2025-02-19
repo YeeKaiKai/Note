@@ -6,7 +6,7 @@
 	- acceptability: one's perception of a system before use
 	- acceptance: one's perception of the system after use
 ### Evaluation Approahes:
-	- in-the-laboratory studies: controlled tests ( 大概就是模擬環境測試 )
+	- in-the-laboratory studies: ( 推薦這個 ) controlled tests ( 大概就是模擬環境測試 )
 		- 高控制但較不自然
 	- in-the-wild studies: user's work enviornment ( 實際環境測試 )
 		- 自然但低控制

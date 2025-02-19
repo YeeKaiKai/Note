@@ -4,6 +4,7 @@
 		- 通常用來表示沒有影響、沒有效果的情況
 		- need to be disproved
 		- 給定一個零假說，並試著證明他錯誤，以此得到想要的結果
+		- p-value < 0.05 (posibility)
 - Variables
 	- things to manipulate and measure, to test the hypothesis
 ### Usability Testing ( User Testing )
