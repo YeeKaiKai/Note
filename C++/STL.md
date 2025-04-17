@@ -5,6 +5,9 @@
 ### Map
 
 - map 的 value 會有初始值，根據 type 而定，比如 integer 就是 0
+### Unordered Set
+
+- 這東西是用 hash table 實作的，find 跟 insert 都是 O(1)
 
 ### Sort
 - ```
