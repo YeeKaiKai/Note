@@ -1,0 +1,1 @@
+- 外層 class 不能存取其 private inner class 的 private 成員（包括 constructor），除非這些成員是 `public`，或透過 `friend` 顯式授權（但 JAVA 可以自由存取）。
