@@ -1,0 +1,3 @@
+- Within-subject is often much better than between-subject
+	- Also need to consider counterbalanced design
+- Demand Characteristic: intentional or unintentional in an experimental context that communicate to participants how the researchers expect them to behave. These cues can alter participants’ behavior, causing them not to respond naturally but to try either to “comply with” or to “resist” the researchers’ hypotheses, thereby threatening the study’s internal validity.
