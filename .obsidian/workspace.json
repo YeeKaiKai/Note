@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HCI/Experimental Design.md",
+                "file": "HCI/Visual Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Experimental Design"
+              "title": "Visual Design"
             }
           }
         ],
@@ -236,10 +236,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40befaa42ff83be7",
+  "active": "366311134fa8f787",
   "lastOpenFiles": [
-    "HCI/Evaluation Overview and Heuristic Evaluation.md",
+    "HCI/Usability Testing.md",
+    "HCI/Slides from professor.md",
+    "HCI/Task Analysis.md",
     "HCI/Prototyping.md",
+    "HCI/Evaluation Overview and Heuristic Evaluation.md",
     "HCI/Experimental Design.md",
     "VSCode-extension.md",
     "TypeScript",
@@ -253,12 +256,9 @@
     "Deep Learning/Introduction to Deep Learning.md",
     "Deep Learning/Images",
     "Deep Learning/Images/Pasted image 20250220112445.png",
-    "HCI/Slides from professor.md",
     "Deep Learning",
-    "HCI/Usability Testing.md",
     "HCI/Design Principle.md",
     "HCI/Need Finding.md",
-    "HCI/Visual Design.md",
-    "HCI/Task Analysis.md"
+    "HCI/Visual Design.md"
   ]
 }
