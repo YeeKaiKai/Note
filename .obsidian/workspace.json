@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HCI/Visual Design.md",
+                "file": "HCI/Experimental Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Visual Design"
+              "title": "Experimental Design"
             }
           }
         ],
@@ -238,6 +238,8 @@
   },
   "active": "366311134fa8f787",
   "lastOpenFiles": [
+    "HCI/Design Principle.md",
+    "HCI/Visual Design.md",
     "HCI/Usability Testing.md",
     "HCI/Slides from professor.md",
     "HCI/Task Analysis.md",
@@ -257,8 +259,6 @@
     "Deep Learning/Images",
     "Deep Learning/Images/Pasted image 20250220112445.png",
     "Deep Learning",
-    "HCI/Design Principle.md",
-    "HCI/Need Finding.md",
-    "HCI/Visual Design.md"
+    "HCI/Need Finding.md"
   ]
 }
