@@ -34,4 +34,8 @@
 ---
 - `docker ps` : show all containers that are currently running
 - `docker ps -a` : show all containers 
-- `docker run -it <image> <command>` : create a container, give a tty interface, and run the container interactively--
+- `docker run -it <image> <command>` : Create and run a new container from an image, and allocate a pseudo-tty
+- `docker rm <container id>...` : delete the container
+- `docker rm $(docker ps -a -q -f status=exited)` : delete all the containers that have a status of exited (or `docker container prune` achieve the same effect)
+	- `-q` : only returns the numeric IDs
+	- `-f` : filters output based on conditions provided
