@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Container/Docker.md",
+                "file": "C++/OOP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker"
+              "title": "OOP"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b49b02316facd75e",
@@ -183,11 +182,13 @@
   },
   "active": "3dd70452eaf7d003",
   "lastOpenFiles": [
+    "C++/STL.md",
+    "C++/OOP.md",
+    "Container/Docker.md",
     "Pasted image 20250831195855.png",
     "Pasted image 20250831195716.png",
     "Container",
     "VSCode-extension.md",
-    "Container/Docker.md",
     "HCI/Experimental Design.md",
     "HCI/Design Principle.md",
     "HCI/Visual Design.md",
@@ -197,8 +198,6 @@
     "HCI/Prototyping.md",
     "HCI/Evaluation Overview and Heuristic Evaluation.md",
     "TypeScript",
-    "C++/STL.md",
-    "C++/OOP.md",
     "Untitled.canvas",
     "PaperStudy/Abstract.md",
     "Computer Architecture/Chapter 1 - Fundamentals of Quantitative Design and Analysis.md",
